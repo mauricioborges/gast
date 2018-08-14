@@ -1,5 +1,7 @@
 # GasT - Google Apps Script Testing-framework
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zixia/gast.svg)](https://greenkeeper.io/)
+
 GasT is a [TAP](http://testanything.org/)-compatable testing framework for Google Apps Script (GAS). It provides an easy way to verify whether GAS programs you write is behaving as expected or not.
 
 Github: https://github.com/zixia/gast
