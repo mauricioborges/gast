@@ -22,7 +22,7 @@ function gastTestRunner() {
   ///// GasT include header start
   
   if ((typeof GasTap)==='undefined') { // GasT Initialization. (only if not initialized yet.)
-    eval(UrlFetchApp.fetch('https://raw.githubusercontent.com/zixia/gast/master/src/gas-tap-lib.js').getContentText())
+    eval(UrlFetchApp.fetch('https://raw.githubusercontent.com/mauricioborges/gast/master/src/gas-tap-lib.js').getContentText())
   } // Class GasTap is ready for use now!
   
   ///// GasT include header end
